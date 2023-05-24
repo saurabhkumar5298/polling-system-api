@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "rahul4019",
+  "author": "saurabhkumar5298",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.3",
